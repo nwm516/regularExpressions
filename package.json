@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "regular-expressions",
+  "version": "0.1.0",
+  "description": "implement regular expresion in express route paths",
+  "main": "regularExpressions.js",
+  "type" : "module",
+  "devDependencies": {},
+  "scripts": {
+    "start" : "regularExpressions.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NW Miller",
+  "license": "MIT"
+}
